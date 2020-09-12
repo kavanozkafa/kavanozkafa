@@ -1,4 +1,5 @@
-### Hi there 👋
+
+<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
 
 <!--
 **kavanozkafa/kavanozkafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
