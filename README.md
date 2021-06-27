@@ -6,7 +6,7 @@
 
 ### Contact with me
 
-<a href="https://dev.to/kavanozkafa"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" ></a> <a href="https://www.linkedin.com/in/sammascolkesen/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.reddit.com/user/sammascolkesen"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a> <a href="https://twitter.com/sammascolkesen"><img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://dev.to/kavanozkafa"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" ></a> <a href="https://www.linkedin.com/in/sammascolkesen/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.reddit.com/user/sammascolkesen"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a> <a href="https://twitter.com/colkesensammas"><img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
 ### Tech Stack
 
@@ -26,4 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavanozkafa&show_icons=true&locale=en" alt="kavanozkafa" /></p>
 
+<<<<<<< HEAD
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavanozkafa&" alt="kavanozkafa" /></p> -->
