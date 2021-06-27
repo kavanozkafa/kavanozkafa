@@ -2,7 +2,7 @@
 
 ### A curios software engineer from İstanbul
 
-#### Currenty working on bill payment integration at <a href="https://www.anadolubank.com.tr"><img src="https://www.anadolubank.com.tr/assets/img/logo.svg" width="125"></a>
+#### Currenty working on bill payment integration at <a href="https://www.anadolubank.com.tr"><img src="./anadolubank.svg" width="125"></a>
 
 ### Contact with me
 
