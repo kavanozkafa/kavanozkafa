@@ -1,30 +1,73 @@
 # <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">  Şammas Çölkesen 
 
-### A curios software engineer from İstanbul
+### A curios software engineer from İstanbul.
 
-#### Currenty working on bill payment integration at <a href="https://www.anadolubank.com.tr"><img src="./anadolubank.svg" width="125"></a>
+#### Currenty working on bill payment integration at <a href="https://www.anadolubank.com.tr"><img src="./anadolubank.svg" width="125"></a> .
 
 ### Contact with me
 
-<a href="https://dev.to/kavanozkafa"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" ></a> <a href="https://www.linkedin.com/in/sammascolkesen/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.reddit.com/user/sammascolkesen"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a> <a href="https://twitter.com/colkesensammas"><img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://dev.to/kavanozkafa"><img src="icon/contact/dev_to.png" width="64" height = "64"></a>  <a href="https://www.linkedin.com/in/sammascolkesen/"><img alt="LinkedIn" src="icon/contact/linkedin.png" width="64" height = "64"/></a>  <a href="https://www.reddit.com/user/sammascolkesen"><img alt="Reddit" src="icon/contact/reddit.png" width="64" height = "64 "/></a>   <a href="https://twitter.com/colkesensammas"><img alt="twitter"  src="./icon/contact/twitter.png" width="64" height = "64" /></a>
+
+
 
 ### Tech Stack
 
-<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /><img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/><img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" /><img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>	<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /><img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+
+
+<a href="https://www.java.com/tr/"><img alt="java"  src="./icon/language/java.png" width="64" height = "64"></a> <a href="https://www.python.org/"><img alt="python"  src="./icon/language/python.png" width="64" height = "64"></a>
+<a href="https://www.javascript.com/"><img alt="javascript"  src="./icon/language/js.png" width="64" height = "64"></a> <a href="https://html.com/"><img alt="html"  src="./icon/language/html.png" width="64" height = "64"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="css"  src="./icon/language/css.png" width="64" height = "64"></a>
+
+ 
+<a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="flask"  src="./icon/framework/flask.png" width="64" height = "64"></a> <a href="https://axis.apache.org/"><img alt="axis"  src="./icon/framework/axis.png" width="64" height = "64"></a><a href="https://jakarta.ee/"><img alt="jakarta"  src="./icon/framework/jakarta.png" width="64" height = "64"></a>
+
+
+<a href="https://www.mysql.com/"><img alt="mysql"  src="./icon/db/mysql.png" width="64" height = "64"></a>  <a href="https://www.oracle.com/tr"><img alt="oracle"  src="./icon/db/oracle.png" width="64" height = "64"></a>
+
+
+## DevOps
+ 
+
+<a href=""><img alt="git"  src="./icon/devops/git.png" width="64" height = "64"></a> <a href=""><img alt="github"  src="./icon/devops/github.png" width="64" height = "64"></a> <a href=""><img alt="gitlab"  src="./icon/devops/gitlab.png" width="64" height = "64"></a> <a href=""><img alt="svn"  src="./icon/devops/svn.png" width="64" height = "64"></a> 
+ 
+
+
+<a href="https://www.atlassian.com/software/bamboo"><img alt="bamboo"  src="./icon/devops/bamboo.png" width="64" height = "64"></a> <a href="https://www.atlassian.com/software/jira"><img alt="jira"  src="./icon/devops/jira.png" width="64" height = "64"></a> <a href="https://www.atlassian.com/software/fisheye"><img alt="fisheye"  src="./icon/devops/fisheye.png" width="64" height = "64"></a>
+
+
+<a href="http://tomcat.apache.org/"><img alt="tomcat"  src="./icon/devops/tomcat.png" width="64" height = "64"></a> <a href="https://www.wildfly.org/"><img alt="wildfly"  src="./icon/devops/wildfly.png" width="64" height = "64"></a> <a href="https://docs.jboss.org/author/display/AS71/Documentation.html"><img alt="jboss"  src="./icon/devops/jboss7.png" width="64" height = "64"></a>
+
+<a href="https://www.heroku.com/about"><img alt="heroku"  src="./icon/devops/heroku.png" width="64" height = "64"></a>
+
+
+
+## Tools
+
+
+<a href="https://www.eclipse.org/"><img alt="Eclipse"  src="./icon/ide/eclipse.png" width="64" height = "64"></a> <a href="https://code.visualstudio.com/"><img alt="VS Code"  src="./icon/ide/vscode.png" width="64" height = "64"></a> <a href="https://www.jetbrains.com/pycharm/"><img alt="Pycharm"  src="./icon/ide/pycharm.png" width="64" height = "64"></a> <a href="https://www.jetbrains.com/idea/"><img alt="Intellij"  src="./icon/ide/intellij.png" width="64" height = "64"></a> <a href="https://www.postman.com/"><img alt="Postman"  src="./icon/tools/postman.png" width="64" height = "64"></a> <a href="https://jupyter.org/"><img alt="Jupyter"  src="./icon/tools/jupyter.png" width="64" height = "64"></a> <a href="https://www.soapui.org/"><img alt="SoapUI"  src="./icon/tools/soapui.png" width="64" height = "64"></a> <a href="https://swagger.io/"><img alt="Swagger"  src="./icon/tools/swagger.png" width="64" height = "64"></a>
+
+## Misc
+
+
+<a href="https://www.linux.org/"><img alt="Linux"  src="./icon/tech/linux.png" width="64" height = "64"></a> <a href="https://www.microsoft.com/tr-tr/windows"><img alt="Windows"  src="./icon/tech/win10.png" width="64" height = "64"></a> <a href="https://www.xml.com/"><img alt="xml"  src="./icon/tech/xml.png" width="64" height = "64"></a> <a href="https://www.json.org/json-en.html"><img alt="json"  src="./icon/tech/json.png" width="64" height = "64"></a> <a href="https://www.markdownguide.org/"><img alt="Markdown"  src="./icon/tech/markdown.png" width="64" height = "64"></a> <a href="https://www.office.com/launch/powerpoint"><img alt="Powerpoint"  src="./icon/tech/powerpoint.png" width="64" height = "64"></a> <a href="https://www.office.com/launch/excel"><img alt="Excel"  src="./icon/tech/excel.png" width="64" height = "64"></a>
+
+
 
 
 ### Trying to learn
 
-<img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/><img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/><img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/><img alt="Spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/><img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/><img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/><img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/>
+<a href="https://nodejs.org/en/"><img alt="node"  src="./icon/framework/node.png" width="64" height = "64"></a>  <a href="https://www.typescriptlang.org/"><img alt="typescript"  src="./icon/framework/typescript.png" width="64" height = "64"></a> <a href="https://vuejs.org/"><img alt="vue"  src="./icon/framework/vue.png" width="64" height = "64"></a>
+
+
+<a href="https://spring.io/"><img alt="spring"  src="./icon/framework/spring-framework.svg" width="64" height = "64"></a> <a href="https://spring.io/projects"><img alt="spring-boot"  src="./icon/framework/spring-boot.svg" width="64" height = "64"></a> <a href="https://spring.io/projects"><img alt="spring-security"  src="./icon/framework/security.svg" width="64" height = "64"></a> <a href="https://spring.io/projects"><img alt="spring-cloud"  src="./icon/framework/spring-cloud.svg" width="64" height = "64"></a> <a href="https://spring.io/projects"><img alt="spring-data"  src="./icon/framework/spring-data.svg" width="64" height = "64"></a>
 
 ### Planning to learn
 
-<img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/><img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+<a href="https://kotlinlang.org/"><img alt="kotlin"  src="./icon/language/kotlin.png" width="64" height = "64"></a> <a href="https://sass-lang.com/"><img alt="sass"  src="./icon/language/sass.png" width="64" height = "64"></a>
 
-<!-- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavanozkafa&show_icons=true&locale=en&layout=compact" alt="kavanozkafa" /></p>
+<a href="https://jestjs.io/"><img alt="jest"  src="./icon/framework/jest.png" width="64" height = "64"></a> <a href="https://getbootstrap.com/"><img alt="bootstrap"  src="./icon/framework/bootstrap.png" width="64" height = "64"></a> <a href="https://material-ui.com/"><img alt="material_ui"  src="./icon/framework/material_ui.png" width="64" height = "64"></a> <a href="https://mochajs.org/"><img alt="mocha"  src="./icon/framework/mocha.png" width="64" height = "64"></a> <a href="https://tailwindcss.com/"><img alt="tailwind"  src="./icon/framework/tailwind.png" width="64" height = "64"></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavanozkafa&show_icons=true&locale=en" alt="kavanozkafa" /></p>
+<a href="https://www.mongodb.com/"><img alt="mongodb"  src="./icon//db/mongodb.png" width="64" height = "64"></a> <a href="https://www.postgresql.org/"><img alt="postgresql"  src="./icon/db/postgresql.png" width="64" height = "64"></a><a href="https://www.microsoft.com/tr-tr/sql-server"><img alt="sqlserver"  src="./icon/db/sql.png" width="64" height = "64"></a> <a href="https://redis.io/"><img alt="redis"  src="./icon/db/redis.png" width="64" height = "64"></a>
 
-<<<<<<< HEAD
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavanozkafa&" alt="kavanozkafa" /></p> -->
+
+<a href="https://aws.amazon.com/tr/"><img alt="aws"  src="./icon/devops/aws.png" width="64" height = "64"></a> <a href="https://www.docker.com/"><img alt="docker"  src="./icon/devops/docker.png" width="64" height = "64"></a> <a href="https://kubernetes.io/"><img alt="kubernetes"  src="./icon/devops/kubernetes.png" width="64" height = "64"></a>
+
