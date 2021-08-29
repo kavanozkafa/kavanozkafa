@@ -1,5 +1,6 @@
-# <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">  Şammas Çölkesen 
+<img src="https://media.giphy.com/media/k3SaouAXP43Cg/giphy.gif?cid=ecf05e47prv8uczey4zqb2soxxbpvkbsl6vv53prhctezaus&rid=giphy.gif&ct=g" width="250">  
 
+# Şammas Çölkesen 
 ### A curios software engineer from İstanbul.
 
 #### Currenty working on bill payment integration at <a href="https://www.anadolubank.com.tr"><img src="./anadolubank.svg" width="125"></a> .
