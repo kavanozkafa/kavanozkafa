@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/k3SaouAXP43Cg/giphy.gif?cid=ecf05e47prv8uczey4zqb2soxxbpvkbsl6vv53prhctezaus&rid=giphy.gif&ct=g" width="250">  
+<img src="https://media.giphy.com/media/k3SaouAXP43Cg/giphy.gif" width="250">  
 
 # Şammas Çölkesen 
 ### A curios software engineer from İstanbul.
