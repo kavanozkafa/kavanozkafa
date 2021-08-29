@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/k3SaouAXP43Cg/giphy.gif" width="250">  
-
 # Şammas Çölkesen 
 ### A curios software engineer from İstanbul.
 
