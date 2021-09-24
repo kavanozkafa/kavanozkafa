@@ -26,7 +26,7 @@
 ## DevOps
  
 
-<a href=""><img alt="git"  src="./icon/devops/git.png" width="64" height = "64"></a> <a href=""><img alt="github"  src="./icon/devops/github.png" width="64" height = "64"></a> <a href=""><img alt="gitlab"  src="./icon/devops/gitlab.png" width="64" height = "64"></a> <a href=""><img alt="svn"  src="./icon/devops/svn.png" width="64" height = "64"></a> 
+<a href="https://git-scm.com/"><img alt="git"  src="./icon/devops/git.png" width="64" height = "64"></a> <a href="https://github.com"><img alt="github"  src="./icon/devops/github.png" width="64" height = "64"></a> <a href="https://github.com"><img alt="gitlab"  src="./icon/devops/gitlab.png" width="64" height = "64"></a> <a href="https://tortoisesvn.net/"><img alt="svn"  src="./icon/devops/svn.png" width="64" height = "64"></a> 
  
 
 
@@ -54,7 +54,7 @@
 
 ### Trying to learn
 
-<a href="https://nodejs.org/en/"><img alt="node"  src="./icon/framework/node.png" width="64" height = "64"></a>  <a href="https://www.typescriptlang.org/"><img alt="typescript"  src="./icon/framework/typescript.png" width="64" height = "64"></a> <a href="https://vuejs.org/"><img alt="vue"  src="./icon/framework/vue.png" width="64" height = "64"></a>
+<a href="https://nodejs.org/en/"><img alt="node"  src="./icon/framework/node.png" width="64" height = "64"></a>  <a href="https://www.typescriptlang.org/"><img alt="typescript"  src="./icon/framework/typescript.png" width="64" height = "64"></a> <a href="https://vuejs.org/"><img alt="vue"  src="./icon/framework/vue.png" width="64" height = "64"></a><a href="https://www.docker.com/"><img alt="docker"  src="./icon/devops/docker.png" width="64" height = "64"></a><a href="https://www.rabbitmq.com/"><img alt="rabbitmq"  src="./icon/framework/rabbitmq.png" width="64" height = "64"></a><a href="https://redis.io/"><img alt="redis"  src="./icon/db/redis.png" width="64" height = "64"></a>
 
 
 <a href="https://spring.io/"><img alt="spring"  src="./icon/framework/spring-framework.svg" width="64" height = "64"></a> <a href="https://spring.io/projects"><img alt="spring-boot"  src="./icon/framework/spring-boot.svg" width="64" height = "64"></a> <a href="https://spring.io/projects"><img alt="spring-security"  src="./icon/framework/security.svg" width="64" height = "64"></a> <a href="https://spring.io/projects"><img alt="spring-cloud"  src="./icon/framework/spring-cloud.svg" width="64" height = "64"></a> <a href="https://spring.io/projects"><img alt="spring-data"  src="./icon/framework/spring-data.svg" width="64" height = "64"></a>
@@ -65,8 +65,5 @@
 
 <a href="https://jestjs.io/"><img alt="jest"  src="./icon/framework/jest.png" width="64" height = "64"></a> <a href="https://getbootstrap.com/"><img alt="bootstrap"  src="./icon/framework/bootstrap.png" width="64" height = "64"></a> <a href="https://material-ui.com/"><img alt="material_ui"  src="./icon/framework/material_ui.png" width="64" height = "64"></a> <a href="https://mochajs.org/"><img alt="mocha"  src="./icon/framework/mocha.png" width="64" height = "64"></a> <a href="https://tailwindcss.com/"><img alt="tailwind"  src="./icon/framework/tailwind.png" width="64" height = "64"></a>
 
-<a href="https://www.mongodb.com/"><img alt="mongodb"  src="./icon//db/mongodb.png" width="64" height = "64"></a> <a href="https://www.postgresql.org/"><img alt="postgresql"  src="./icon/db/postgresql.png" width="64" height = "64"></a><a href="https://www.microsoft.com/tr-tr/sql-server"><img alt="sqlserver"  src="./icon/db/sql.png" width="64" height = "64"></a> <a href="https://redis.io/"><img alt="redis"  src="./icon/db/redis.png" width="64" height = "64"></a>
-
-
-<a href="https://aws.amazon.com/tr/"><img alt="aws"  src="./icon/devops/aws.png" width="64" height = "64"></a> <a href="https://www.docker.com/"><img alt="docker"  src="./icon/devops/docker.png" width="64" height = "64"></a> <a href="https://kubernetes.io/"><img alt="kubernetes"  src="./icon/devops/kubernetes.png" width="64" height = "64"></a>
+<a href="https://www.mongodb.com/"><img alt="mongodb"  src="./icon//db/mongodb.png" width="64" height = "64"></a> <a href="https://www.postgresql.org/"><img alt="postgresql"  src="./icon/db/postgresql.png" width="64" height = "64"></a><a href="https://www.microsoft.com/tr-tr/sql-server"><img alt="sqlserver"  src="./icon/db/sql.png" width="64" height = "64"></a> <a href="https://aws.amazon.com/tr/"><img alt="aws"  src="./icon/devops/aws.png" width="64" height = "64"></a>  <a href="https://kubernetes.io/"><img alt="kubernetes"  src="./icon/devops/kubernetes.png" width="64" height = "64"></a>
 
