@@ -1,7 +1,7 @@
 # Şammas Çölkesen 
 ### A curios software engineer from İstanbul.
 
-#### Currenty working on bill payment integration at <a href="https://www.anadolubank.com.tr"><img src="./anadolubank.svg" width="125"></a> .
+#### Currenty working at <a href="https://www.atp.com.tr/">ATP Digital</a>.
 
 ### Contact with me
 
