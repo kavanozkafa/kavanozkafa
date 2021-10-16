@@ -1,7 +1,7 @@
 # Şammas Çölkesen 
 ### A curios software engineer from İstanbul.
 
-#### Currenty working at <a href="https://www.atp.com.tr/">ATP Digital</a>.
+#### Currenty working at <a href="https://www.atp.com.tr/">ATP</a>.
 
 ### Contact with me
 
