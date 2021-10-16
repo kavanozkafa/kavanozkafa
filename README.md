@@ -17,7 +17,7 @@
 <a href="https://www.javascript.com/"><img alt="javascript"  src="./icon/language/js.png" width="64" height = "64"></a> <a href="https://html.com/"><img alt="html"  src="./icon/language/html.png" width="64" height = "64"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="css"  src="./icon/language/css.png" width="64" height = "64"></a>
 
  
-<a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="flask"  src="./icon/framework/flask.png" width="64" height = "64"></a> <a href="https://axis.apache.org/"><img alt="axis"  src="./icon/framework/axis.png" width="64" height = "64"></a><a href="https://jakarta.ee/"><img alt="jakarta"  src="./icon/framework/jakarta.png" width="64" height = "64"></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="flask"  src="./icon/framework/flask.png" width="64" height = "64"></a> <a href="https://axis.apache.org/"><img alt="axis"  src="./icon/framework/axis.png" width="64" height = "64"></a><a href="https://jakarta.ee/"><img alt="jakarta"  src="./icon/framework/jakarta.png" width="64" height = "64"></a> <a href="https://spring.io/"><img alt="spring"  src="./icon/framework/spring-framework.svg" width="64" height = "64"></a> <a href="https://spring.io/projects"><img alt="spring-boot"  src="./icon/framework/spring-boot.svg" width="64" height = "64"></a> <a href="https://spring.io/projects"><img alt="spring-security"  src="./icon/framework/security.svg" width="64" height = "64"></a>
 
 
 <a href="https://www.mysql.com/"><img alt="mysql"  src="./icon/db/mysql.png" width="64" height = "64"></a>  <a href="https://www.oracle.com/tr"><img alt="oracle"  src="./icon/db/oracle.png" width="64" height = "64"></a>
@@ -49,8 +49,7 @@
 
 <a href="https://nodejs.org/en/"><img alt="node"  src="./icon/framework/node.png" width="64" height = "64"></a>  <a href="https://www.typescriptlang.org/"><img alt="typescript"  src="./icon/framework/typescript.png" width="64" height = "64"></a> <a href="https://vuejs.org/"><img alt="vue"  src="./icon/framework/vue.png" width="64" height = "64"></a><a href="https://www.docker.com/"><img alt="docker"  src="./icon/devops/docker.png" width="64" height = "64"></a><a href="https://www.rabbitmq.com/"><img alt="rabbitmq"  src="./icon/framework/rabbitmq.png" width="64" height = "64"></a><a href="https://redis.io/"><img alt="redis"  src="./icon/db/redis.png" width="64" height = "64"></a>
 
-
-<a href="https://spring.io/"><img alt="spring"  src="./icon/framework/spring-framework.svg" width="64" height = "64"></a> <a href="https://spring.io/projects"><img alt="spring-boot"  src="./icon/framework/spring-boot.svg" width="64" height = "64"></a> <a href="https://spring.io/projects"><img alt="spring-security"  src="./icon/framework/security.svg" width="64" height = "64"></a> <a href="https://spring.io/projects"><img alt="spring-cloud"  src="./icon/framework/spring-cloud.svg" width="64" height = "64"></a> <a href="https://spring.io/projects"><img alt="spring-data"  src="./icon/framework/spring-data.svg" width="64" height = "64"></a>
+ <a href="https://spring.io/projects"><img alt="spring-cloud"  src="./icon/framework/spring-cloud.svg" width="64" height = "64"></a> <a href="https://spring.io/projects"><img alt="spring-data"  src="./icon/framework/spring-data.svg" width="64" height = "64"></a>
 
 ### Planning to learn
 
