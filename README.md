@@ -1,8 +1,4 @@
-# Şammas Çölkesen 
 #### A curios software engineer from İstanbul. Currenty working at <a href="https://www.atp.com.tr/">ATP</a>.
-#### Contact with me 
-<a href="https://www.linkedin.com/in/sammascolkesen/" target="_blank"><img alt="LinkedIn" src="icon/contact/linkedin.png" width="32" height = "32"/></a>
-
 
 #### Tech Stack
 
